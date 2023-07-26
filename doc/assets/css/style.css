@@ -50,6 +50,9 @@ main{
   width: 100%;
   position: relative;
   overflow: hidden;
-  background-position: 50% 50%;
-  
+  background-position: 50% 50%;  
+}
+
+.parallax-1{
+  background-image: url("https://images.squarespace-cdn.com/content/v1/5e00d03c44f04d48638abdc2/1578413936551-9WHOVJ3O93VB50C15IWV/Tristan+Auer+-+Car+Tailoring+-+Ferrari+Dino+308+GT4+-+Cr%C3%A9dit+Amaury+Laparra.2.jpg?format=2500w");
 }
