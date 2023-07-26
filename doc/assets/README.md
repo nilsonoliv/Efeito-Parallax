@@ -1,1 +1,1 @@
-Clonado de https://www.youtube.com/watch?v=A43YY-SwrdE
+Clonado de https://www.youtube.com/watch?v=A43YY-SwrdE  e https://github.com/devfraga/parallax-youtube
